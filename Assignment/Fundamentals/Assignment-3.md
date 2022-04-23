@@ -8,4 +8,4 @@ Your tasks:
 
 Test data:
 
-    Test for bill values 275, 40 and 430
+    Test for bill values 275, 40 and 430 
